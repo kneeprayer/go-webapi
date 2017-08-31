@@ -14,8 +14,8 @@ This repository is WebAPI with Docker for Go programming language Deployment env
 5. `bin/docker-build.sh`
 
 ## How to use it
-* Build Docker Images  `bin/docker-run.sh`  
-* Start Docker Images  `bin/stop-server.sh`  
+* Build Docker Images  `bin/docker-build.sh`  
+* Start Docker Images  `bin/docker-run.sh`  
 * Delete Docker All Images  `bin/docker-rmi-all.sh`
 
 ## License
